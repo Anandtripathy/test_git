@@ -1,2 +1,1 @@
-# test_git
-for testing get
+AIM: To create pipeline for Azure Devops.
